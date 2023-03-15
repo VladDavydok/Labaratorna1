@@ -4,7 +4,8 @@ using System.Linq;
 class Program
 {
     static void Main(string[] args)
-    {  
+    {
+        Console.WriteLine("hello");
         float[] numbers = new float[5];
         Random random = new Random();
 
