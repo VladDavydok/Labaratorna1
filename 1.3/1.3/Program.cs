@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("Hello");
         float[] numbers = new float[5];
         Random random = new Random();
 
